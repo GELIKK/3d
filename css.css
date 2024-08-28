@@ -1,0 +1,47 @@
+body{
+  width: 100%;
+  left: 50px;
+  right: 50px;
+  margin: auto; ;
+}
+main{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+}
+header{
+  
+  width: 98%;
+  height: 150px;
+  background-color: red;
+  margin: a;
+}
+.carousel{
+  width: 100%;
+  height: 200px;
+  background-color: yellow;
+}
+.about{
+  width: 100%;
+  height: 500px;
+  background-color:green;
+}
+aside{
+  display: flex;
+  height: 500px;
+  justify-content: space-around;
+  align-items: center;
+}
+.picture{
+ 
+  width: 30%;
+  height: 150px;
+  background-color: blue;
+}
+.info{
+  width: 30%;
+  height: 150px;
+  background-color: blue;
+}

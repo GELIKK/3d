@@ -1,0 +1,163 @@
+@media (max-width: 1440px){
+    
+    div.overlay{
+        height:810px !important;
+    }
+  
+}
+@media (max-width: 1024px){
+    
+    div.overlay{
+        height:570px !important;
+    }
+  
+}
+@media (max-width: 768px){
+    
+    div.overlay{
+        height:430px !important;
+    }
+  
+}
+@media (max-width: 425px){
+    
+    div.overlay{
+        height:238px !important;
+    }
+  
+}
+@media (max-width: 375px){
+    
+    div.overlay{
+        height:210px !important;
+    }
+  
+}
+@media (max-width: 320px){
+    
+    div.overlay{
+        height:180px !important;
+    }
+  
+}
+/* rotated */
+@media (max-width: 932px){
+    
+    div.overlay{
+        height:520px !important;
+    }
+  
+}
+/* rotated */
+/* rotated */
+@media (max-width: 915px){
+    
+    div.overlay{
+        height:510px !important;
+    }
+  
+}
+/* rotated *
+/* device of inspect responsive */
+@media (max-width: 912px){
+    
+    div.overlay{
+        height:510px !important;
+    }
+  
+}
+/* rotated */
+@media (max-width: 896px){
+    
+    div.overlay{
+        height:505px !important;
+    }
+  
+}
+/* rotated */
+@media (max-width: 853px){
+    
+    div.overlay{
+        height:470px !important;
+    }
+  
+}
+@media (max-width: 820px){
+    
+    div.overlay{
+        height:450px !important;
+    }
+  
+}
+@media (max-width: 768px){
+    
+    div.overlay{
+        height:430px !important;
+    }
+  
+}
+/* rotated */
+@media (max-width: 750px){
+    
+    div.overlay{
+        height:415px !important;
+    }
+  
+}
+/* rotated *
+@media (max-width: 667px){
+    
+    div.overlay{
+        height:375px !important;
+    }
+  
+}
+@media (max-width: 540px){
+    
+    div.overlay{
+        height:300px !important;
+    }
+  
+}
+@media (max-width: 430px){
+    
+    div.overlay{
+        height:240px !important;
+    }
+  
+}
+
+@media (max-width: 414px){
+    
+    div.overlay{
+        height:230px !important;
+    }
+  
+}
+@media (max-width: 412px){
+    
+    div.overlay{
+        height:230px !important;
+    }
+}
+@media (max-width: 390px){
+    
+    div.overlay{
+        height:218px !important;
+    }
+  
+}
+@media (max-width: 360px){
+    
+    div.overlay{
+        height:200px !important;
+    }
+  
+}
+@media (max-width: 344px){
+    
+    div.overlay{
+        height:190px !important;
+    }
+  
+}
